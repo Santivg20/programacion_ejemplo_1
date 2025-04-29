@@ -68,9 +68,8 @@ console.log("Hola Mundo")
 ```
 
 ## Ecuaciones
-$$
-\dfrac{-b \pm \sqrt{b^2 -4ac}}{2a}
-$$
+$$\dfrac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
+
 $y = mx + b$
 
 ## Imagenes
